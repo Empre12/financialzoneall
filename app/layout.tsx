@@ -79,8 +79,6 @@ export default function RootLayout({
 					crossOrigin='anonymous'
 				/>
       </head>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2780507259331537"
-     crossorigin="anonymous"></script>
       <body className="font-sans antialiased bg-background text-foreground" suppressHydrationWarning>
         <Header />
         {children}
